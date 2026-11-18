@@ -2,8 +2,6 @@
 
 Avance del proyecto del curso **Javascript Avanzado**. Es la continuación de las PC1 y PC2, ahora hecho con React, Vite y Tailwind CSS.
 
-El documento con las preguntas 1 a 5 (objetivos, requisitos, sitemap y guía de estilos) está en [docs/PC3_Documento.md](docs/PC3_Documento.md).
-
 ## Tecnologías
 
 - React 19 + Vite
@@ -21,13 +19,13 @@ npm run dev     # terminal 2: la página en http://localhost:5173
 
 ## Páginas
 
-| Ruta | Página |
-|------|--------|
-| `/` | Inicio |
-| `/productos` | Productos con buscador y filtro |
-| `/carreras` | Carreras |
-| `/contacto` | Contacto con formulario |
-| cualquier otra | 404 |
+| Ruta           | Página                          |
+| -------------- | ------------------------------- |
+| `/`            | Inicio                          |
+| `/productos`   | Productos con buscador y filtro |
+| `/carreras`    | Carreras                        |
+| `/contacto`    | Contacto con formulario         |
+| cualquier otra | 404                             |
 
 ## Estructura
 
@@ -39,6 +37,6 @@ src/
 db.json        productos y carreras
 ```
 
-## Integrantes
+## Integrante
 
-- (completar con los nombres del grupo)
+- Miguel Angel Marquez Cipriano

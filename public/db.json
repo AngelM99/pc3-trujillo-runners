@@ -1,0 +1,21 @@
+{
+  "productos": [
+    { "id": 1, "nombre": "Zapatillas Running Pro", "imagen": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500", "categoria": "Calzado", "precio": 320, "stock": 15, "descripcion": "Suela amortiguada para largas distancias." },
+    { "id": 2, "nombre": "Zapatillas Trail Runner", "imagen": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?w=500", "categoria": "Calzado", "precio": 280, "stock": 8, "descripcion": "Mayor agarre para terrenos irregulares." },
+    { "id": 3, "nombre": "Zapatillas Ligeras Maraton", "imagen": "https://images.unsplash.com/photo-1491553895911-0055eca6402d?w=500", "categoria": "Calzado", "precio": 350, "stock": 3, "descripcion": "Livianas y rápidas para competir." },
+    { "id": 4, "nombre": "Reloj GPS Deportivo", "imagen": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500", "categoria": "Tecnología", "precio": 480, "stock": 10, "descripcion": "Mide ritmo, distancia y frecuencia cardiaca." },
+    { "id": 5, "nombre": "Auriculares Sport", "imagen": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500", "categoria": "Tecnología", "precio": 195, "stock": 20, "descripcion": "Resistentes al sudor, sonido de calidad." },
+    { "id": 6, "nombre": "Smartwatch Fitness", "imagen": "https://images.unsplash.com/photo-1434493789847-2f02dc6ca35d?w=500", "categoria": "Tecnología", "precio": 390, "stock": 0, "descripcion": "Control de actividad y notificaciones." },
+    { "id": 7, "nombre": "Cinturon de Hidratacion", "imagen": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500", "categoria": "Accesorios", "precio": 85, "stock": 30, "descripcion": "Lleva tu bebida y tus cosas sin molestias." },
+    { "id": 8, "nombre": "Mochila de Hidratacion", "imagen": "https://images.unsplash.com/photo-1622260614153-03223fb72052?w=500", "categoria": "Accesorios", "precio": 140, "stock": 12, "descripcion": "Ideal para trail y carreras largas." },
+    { "id": 9, "nombre": "Gorra Running", "imagen": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=500", "categoria": "Accesorios", "precio": 45, "stock": 40, "descripcion": "Ligera y transpirable." },
+    { "id": 10, "nombre": "Polo Dry-Fit Runners Hub", "imagen": "https://images.unsplash.com/photo-1581655353564-df123a1eb820?w=500", "categoria": "Ropa", "precio": 65, "stock": 25, "descripcion": "Polo oficial de secado rápido." },
+    { "id": 11, "nombre": "Short Deportivo", "imagen": "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=500", "categoria": "Ropa", "precio": 55, "stock": 5, "descripcion": "Cómodo y liviano para entrenar." },
+    { "id": 12, "nombre": "Casaca Cortaviento", "imagen": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=500", "categoria": "Ropa", "precio": 170, "stock": 9, "descripcion": "Protege del viento en las mañanas." }
+  ],
+  "carreras": [
+    { "id": 1, "distancia": "5K", "nombre": "Carrera Matutina 5K", "fecha": "15 de Octubre, 2026", "lugar": "Malecón Trujillo", "precio": 35, "color": "#10B981" },
+    { "id": 2, "distancia": "10K", "nombre": "Gran Carrera 10K", "fecha": "22 de Noviembre, 2026", "lugar": "Av. España, Trujillo", "precio": 55, "color": "#FF6B35" },
+    { "id": 3, "distancia": "12K", "nombre": "Reto Élite 12K", "fecha": "14 de Diciembre, 2026", "lugar": "Huanchaco, Trujillo", "precio": 75, "color": "#8B5CF6" }
+  ]
+}

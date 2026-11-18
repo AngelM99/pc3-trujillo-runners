@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* colores del proyecto (los mismos de la PC1) */
+@theme {
+  --color-naranja: #FF6B35;
+  --color-naranja-oscuro: #e55a28;
+  --color-negro: #111827;
+  --color-gris: #f3f4f6;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  background-color: #f9fafb;
+  color: #1f2937;
+}
